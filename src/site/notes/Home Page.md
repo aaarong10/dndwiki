@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","dg-note-properties":{"dh-home":true}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 [[NPC'S\|NPC'S]]
