@@ -6,7 +6,7 @@
 
 [[Rothelm\|Rothelm]]
 
-[[Ciudad de la vida\|Ciudad de la vida]]
+[[De la vida\|De la vida]]
 
 [[Emerald City\|Emerald City]]
 
